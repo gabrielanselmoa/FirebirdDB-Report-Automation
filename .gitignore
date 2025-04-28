@@ -1,0 +1,23 @@
+# Ambiente virtual
+venv/
+.env
+*.env
+
+# Cache e compilados Python
+__pycache__/
+*.pyc
+
+# Configurações locais
+*.sqlite3
+*.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Jupyter Notebooks (se usar)
+.ipynb_checkpoints/
+
+# Arquivos de IDE (VSCode, PyCharm, etc)
+.vscode/
+.idea/
+*.code-workspace
