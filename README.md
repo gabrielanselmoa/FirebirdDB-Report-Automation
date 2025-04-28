@@ -94,8 +94,3 @@ Com o ambiente configurado e os segredos definidos, execute o script do dashboar
 
 ```bash
 streamlit run dashboard.py
-
-
-![imagem](images/photo1.jpg)
-
-images/photo2.jpg
